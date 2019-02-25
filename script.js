@@ -100,5 +100,5 @@ var viewBtnHover = function () {
   textEl.parentNode.removeChild(textEl);
 };
 
-viewBtnEls.addEventListener('mouseover', viewBtnHover);
 
+viewBtnEls.addEventListener('mouseover', viewBtnHover);
